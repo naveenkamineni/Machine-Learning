@@ -5,3 +5,5 @@
 Data Science often uses tools like Excel formulas or Python libraries (such as NumPy and Pandas) to clean and prepare data for analysis. Machine Learning takes that data and applies algorithms to solve problems in various fields, utilizing mathematical concepts like linear algebra and logistic regression.
 
 ---
+![image](https://github.com/user-attachments/assets/caf02715-edce-4de6-a01b-ed4f2165f872)
+
